@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hu Zirui (2001.02 - ), received his B.Eng. degree (2018 - 2022) from  [Software Engineering College](http://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) in [East China Normal University](https://www.ecnu.edu.cn/) in 2022. After then, he was recommended to study in [Data Science and Engineering College](http://dase.ecnu.edu.cn/) at East China Normal University (2022 - ).
+Hu Zirui (2001.02), received his B.Eng. degree (2018 - 2022) from  [Software Engineering College](http://www.sei.ecnu.edu.cn/) and [Department of Chinese Language and Literature](https://zhwx.ecnu.edu.cn/) in [East China Normal University](https://www.ecnu.edu.cn/) in 2022. After then, he was recommended to study in [Data Science and Engineering College](http://dase.ecnu.edu.cn/) at East China Normal University (2022 - ).
 
 His research focuses on database kernel technology, especially for HTAP database optimization and benchmark design.
 
