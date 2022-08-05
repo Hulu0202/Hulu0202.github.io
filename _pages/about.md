@@ -39,8 +39,8 @@ Project
 - 乐龄加油站 (A business app for the elderly)
 
 Teaching Experience
-- Teaching Assistant of Volunteer Teaching Summer Vocation @ Jiangxi Shangrao, ECNU, 2019 Spring.
 ======
+- Teaching Assistant of Volunteer Teaching Summer Vocation @ Jiangxi Shangrao, ECNU, 2019 Spring.
 
 Contact
 ======
