@@ -23,6 +23,7 @@ Selected Awards
 7. 2021 **Second Prize** in MathorCup University Mathematical Modeling Challenge
 8. 2020 **Third prize** of National Mathematical Contest in Modeling for College Students
 9. 2019 **Third prize** in English Speech Contest of Foreign Research Institute of ECNU
+10. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU
 
 Publications
 ======
@@ -30,7 +31,7 @@ Publications
 
 Project
 ======
-- MiniOB (A mini version of oceanbase)
+- MiniOB (A mini-version of OceanBase)
 - 懂球帝 (A platform for predicting the results of sports events based on Machine Learning & KnowledgeGraph)
 - Orca (A financial database evaluation suite)
 - Osprey (A big data trading platform based on zero-knowledge proof)
@@ -38,6 +39,7 @@ Project
 - 乐龄加油站 (A business app for the elderly)
 
 Teaching Experience
+- Teaching Assistant of Volunteer Teaching Summer Vocation @ Jiangxi Shangrao, ECNU, 2019 Spring.
 ======
 
 Contact
