@@ -85,11 +85,11 @@ author:
   bio              : "First-Year PhD in East China Normal University Data Science and Engineering College"
   location         : "ShangHai,China"
   employer         :  
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :  "winggone127@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
