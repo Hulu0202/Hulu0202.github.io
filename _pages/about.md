@@ -45,7 +45,7 @@ Teaching Experience
 ======
 - Teaching Assistant of Volunteer Teaching Summer Vocation @ Jiangxi Shangrao, ECNU, 2019 Spring.
 
-Personal Interest
+Personal Interests
 ======
 - 🏀 Basketball
 - 🏸 Badmiton
