@@ -24,7 +24,8 @@ Selected Awards
 8. 2021 **Second Prize** in Shanghai College Students Computer Application Ability Competition
 9. 2020 **Third prize** of National Mathematical Contest in Modeling for College Students
 10. 2019 **Third prize** in English Speech Contest of Foreign Research Institute of ECNU
-11. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU
+11. 2019-2021 **First-Class Scholarship** in ECNU
+12. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU
 
 Publications
 ======
@@ -43,6 +44,15 @@ Project
 Teaching Experience
 ======
 - Teaching Assistant of Volunteer Teaching Summer Vocation @ Jiangxi Shangrao, ECNU, 2019 Spring.
+
+Personal Interest
+======
+- 🏀 Basketball
+- 🏸 Badmiton
+- 🏊‍♂️ Swimming
+- 🎸 Guitar
+- 🎹 Pinao
+- ✍️ Calligraphy
 
 Contact
 ======
