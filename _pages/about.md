@@ -29,9 +29,9 @@ Selected Awards
 
 Publications
 ======
-- HTAP数据库一致性模型综述 (TODO) 
+- **胡梓锐**，翁思扬，王清帅，俞融，徐金凯，张蓉，周烜. HTAP数据库系统数据共享模型与优化策略，软件学报，2022 
 
-Project
+<!-- Project
 ======
 - HTAP-Bench, A Benchmark For HTAP Databases, 2022
 - MiniOB, A Mini-Version Of OceanBase, 2021
@@ -39,7 +39,7 @@ Project
 - Osprey, A Big Data Trading Platform Based On Zero-Knowledge Proof, 2021
 - 守护帮, A Combination of Hardware and Software Kit For the Elderly's Physical and Psychological Health Based On NLP & Arduino, 2020
 - 乐龄加油站, A Business App For the Elderly, 2020
-- 懂球帝, A Platform For Predicting the Results Of Sports Events Based On Machine Learning & KnowledgeGraph, 2020
+- 懂球帝, A Platform For Predicting the Results Of Sports Events Based On Machine Learning & KnowledgeGraph, 2020 -->
 
 Teaching Experience
 ======
