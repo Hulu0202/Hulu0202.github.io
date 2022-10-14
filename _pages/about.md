@@ -22,7 +22,7 @@ Selected Awards
 6. 2021 **Second prize** of Shanghai University Students' Cultural and Creative Works Exhibition
 7. 2021 **Second Prize** in MathorCup University Mathematical Modeling Challenge
 8. 2021 **Second Prize** in Shanghai College Students Computer Application Ability Competition
-9. 2020 **Third prize** of National Mathematical Contest in Modeling for College Students
+9. 2020 **Excellent Student** of Bytedance FeiShu Training Camp
 10. 2019 **Third prize** in English Speech Contest of Foreign Research Institute of ECNU
 11. 2019-2021 **First-Class Scholarship** in ECNU
 12. 2018-2021 **Outstanding Student** in Software and Engineering College of ECNU
