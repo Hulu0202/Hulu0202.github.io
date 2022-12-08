@@ -29,7 +29,7 @@ Selected Awards
 
 Publications
 ======
-- **胡梓锐**，翁思扬，王清帅，俞融，徐金凯，张蓉，周烜. HTAP数据库系统数据共享模型与优化策略，软件学报，2022 
+- **胡梓锐**，翁思扬，王清帅，俞融，徐金凯，张蓉，倪葎，乔典，周烜. HTAP数据库系统数据共享模型与优化策略，软件学报，2022 
 
 <!-- Project
 ======
@@ -43,6 +43,7 @@ Publications
 
 Teaching Experience
 ======
+- PingCAP Talent Plan Tutor (Theme: Cardinality/Cost Estimation Based on Learning) @ Shanghai, ECNU, 2022, Winter
 - Teaching Assistant of Volunteer Teaching Summer Vocation @ Jiangxi Shangrao, ECNU, 2019 Spring.
 
 Personal Interests
