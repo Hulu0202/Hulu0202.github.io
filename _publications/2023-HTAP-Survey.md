@@ -1,0 +1,13 @@
+---
+title: "HTAP数据库系统数据共享模型和优化策略"
+collection: publications
+permalink: /publication/2023-HTAP-Survey
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2023-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'wait for citation'
+---
+This paper is about the data sharing model and optimization strategies in HTAP databases [软件学报]
+
+[Download paper here](wait for link)
